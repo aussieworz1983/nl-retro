@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retro Share</string>
+    <string name="rom_type">Choose An Era</string>
+    <string name="atari">Atari 2700</string>
+    <string name="setup_type"></string>
+    <string name="no_internal">There is no roms folders</string>
+    <string name="found_internal">Internal Roms Folder Found</string>
+    <string name="found_external">External Roms Folder Found</string>
+</resources>
